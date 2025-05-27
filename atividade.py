@@ -1,4 +1,4 @@
-// APENAS O PRIMEIRO ARQUIVO PARA MEU REPOSITÓRIO
+# APENAS O PRIMEIRO ARQUIVO PARA MEU REPOSITÓRIO
 while True:
     try:
         yearsold = input("Opa meu man, quantos anos vc tem? (999 para finalizar)\n" \
